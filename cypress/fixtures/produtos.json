@@ -1,0 +1,26 @@
+[
+  {
+    "nomeProduto": "Eos V-Neck Hoodie", 
+    "tamanho": "XS",
+    "cor": "Green",
+    "quantidade": 1
+  },
+  {
+    "nomeProduto": "Aero Daily Fitness Tee", 
+    "tamanho": "S",
+    "cor": "Black",
+    "quantidade": 1
+  },
+  {
+    "nomeProduto": "Aether Gym Pant", 
+    "tamanho": "36",
+    "cor": "Blue",
+    "quantidade": 1
+  },
+  {
+    "nomeProduto": "Ajax Full-Zip Sweatshirt", 
+    "tamanho": "M",
+    "cor": "Red",
+    "quantidade": 1
+  }
+]
